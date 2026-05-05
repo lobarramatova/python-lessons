@@ -26,3 +26,4 @@ ismlar = ['olim', 'anvar', 'hasan', 'husan']
 ism = r.choice
 print(ism)
 print(r.choice(ism))
+
